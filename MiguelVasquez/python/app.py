@@ -1,7 +1,7 @@
 #sadsasdasd
 import random
 import string
-#hola
+
 i = 0
 
 def id_generator(size=6, chars=string.ascii_uppercase):
@@ -11,6 +11,6 @@ def id_generator(size=6, chars=string.ascii_uppercase):
 while True:
     search = id_generator()
     i = i + 1
-    print(search,'!' ,i)
+    print(search,'[!]' ,i)
     if search == 'MIGUEL':
         exit()
