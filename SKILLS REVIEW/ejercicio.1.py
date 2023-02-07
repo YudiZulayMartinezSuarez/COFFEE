@@ -7,7 +7,8 @@ C. División que retorne entero."""
 numero1=20
 numero2=5
 
-print(f'exponencial'{numero1}**{numero2} = {})
-
+print(f"B. Exponencial{numero1}**{numero2}={numero1**numero2}")
+print(f"A. Divicion Modular {numero1}%{numero2}={numero1%numero2}")
+print(f"C. Divicion que retorne entero{numero1}//{numero2}={numero1//numero2}")
 
 
