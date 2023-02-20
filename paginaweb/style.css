@@ -1,0 +1,59 @@
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.logo img{
+    width:40% ;
+    height:40% ;
+    padding: 2%;
+}
+
+.menu{
+
+    color: black;
+    padding: 1%;
+    text-align:right;
+    position: relative;
+    
+
+}
+
+.restaurante{
+    color: black;
+    padding: 1%;
+    text-align:left;
+    position:relative;
+}
+
+h1{
+    
+    padding: 1%;
+    text-align: right;
+    position: relative;
+
+
+    
+}
+
+.parrafo{
+    text-align: right;
+    padding: 1%;
+    position: absolute;
+
+
+    
+}
+
+.boton1{
+    border-radius: 1%;
+    background-color: pink;
+    bottom: center;
+}
